@@ -14,5 +14,6 @@ __pycache__/
 data/
 outputs/
 
-# Docs (optional)
+# Report draft (optional)
+# 取消下一行注释：如果你不想提交 docx
 *.docx
